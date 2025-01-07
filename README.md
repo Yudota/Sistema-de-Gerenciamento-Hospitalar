@@ -14,3 +14,7 @@ Gerenciar pacientes, médicos, agendamentos, prontuários e faturamento.
 - Diferentes atores e interoperabilidade com outros sistemas.
 
 Sugestão: Desenvolver um módulo para agendamento inteligente de consultas e exames, que considere disponibilidade de médicos, equipamentos e salas, otimizando recursos e minimizando tempo de espera.
+
+---
+
+[Linguagem Onipresente (Leitura OBRIGATÓRIA)](https://github.com/Yudota/Sistema-de-Gerenciamento-Hospitalar/blob/main/Base%20Linguagem%20Onipresente.md)
